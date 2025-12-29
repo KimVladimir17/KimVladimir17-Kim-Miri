@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vlad
+# Hi 👋 I'm Miri
 
 💻 Frontend Developer  
 📍 South Korea  
@@ -7,25 +7,33 @@
 
 ## 🚀 About Me
 - I build **web and mobile user interfaces**
-- Working with **React, TypeScript, and React Native**
-- Focused on **clean UI, component logic, and state management**
-- Creating pet projects and learning through practice
+- Working with **React, TypeScript, React Native, and Next.js**
+- Experience integrating **REST APIs** and working with async data
+- Basic knowledge of **Python** for scripting and automation
+- Focused on **performance optimization, clean UI, and scalable components**
 
 ---
 
 ## 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,git,figma,reactnative" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,git,figma,reactnative,python" />
+
+---
+
+## ⚡ Optimization & Tools
+- Component optimization and rendering performance
+- Code splitting and lazy loading
+- Basic SEO optimization (Next.js)
+- Clean project structure and reusable components
 
 ---
 
 ## 📂 Projects
 - 📱 **React Native App** — mobile UI (catalogs, profiles, navigation)
-- 🌐 **React Web App** — forms, pages, reusable components
-- 🎨 UI / UX experiments and animations
+- 🌐 **Next.js Web App** — SSR, routing, and API integration
+- 🎨 UI / UX experiments and performance improvements
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KimVladimir17&show_icons=true&hide_title=true)
 
----
