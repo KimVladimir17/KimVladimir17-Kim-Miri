@@ -35,5 +35,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kim-Miri&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Miri&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimVladimir17&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimVladimir17&layout=compact" />
+</p>
+
